@@ -1,10 +1,8 @@
-package com.hk.main;
-
-import com.hk.Base;
-import com.hk.BaseBall_Game;
-import com.hk.Hitter;
-import com.hk.Pitcher;
-import com.hk.Umpire;
+import Base;
+import BaseBall_Game;
+import Hitter;
+import Pitcher;
+import Umpire;
 
 public class BaseBallMain {
 
